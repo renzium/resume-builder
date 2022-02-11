@@ -32,7 +32,7 @@ function FileUploader() {
     pdfUpdate,
     setPDFData,
     setLoadingPdf,
-    loadingPdf,
+    // loadingPdf,
   } = useAppContext();
   const { isMinimumTabModalScreen } = useMediaQueries();
 

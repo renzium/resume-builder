@@ -4,8 +4,8 @@ import "antd/dist/antd.css";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import { Routes, Route, Link, BrowserRouter } from "react-router-dom";
-import DetailsForm from "./DetailsForm";
+import { BrowserRouter } from "react-router-dom";
+// import DetailsForm from "./DetailsForm";
 
 ReactDOM.render(
 	<React.StrictMode>
