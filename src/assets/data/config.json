@@ -1,0 +1,242 @@
+{
+  "data": {
+    "education": [
+      {
+        "awards": [
+          "Lorem Ipsum dolor sagitarius",
+          "Laucibus sagittis. Vestibulum quis pellentesque magna ",
+          "Proin sed sagittis lectus, id pharetra metus. Integer suscipit magna in aliquet 2013"
+        ],
+        "date": {
+          "end": "Aug 2018",
+          "start": "Mar 2013"
+        },
+        "location": "Colorado, USA",
+        "subjectMajor": "Control System Engineering and Intelligent Control, Solid-State Electronics",
+        "subtitle": "B.Sc. Electronic and Electrical Engineering",
+        "title": "Stanford University",
+        "volunteeringOrOrganization": [
+          "Ialiquid ex ea commodi consequaturr (2015) -- laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+          "ILab Robotics Group (2014) -- laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?."
+        ]
+      },
+      {
+        "awards": [
+          "National Finalist; International Physic Olympiad IPhO (2010)",
+          "Overall best in Physics",
+          "Overall best in Biology"
+        ],
+        "date": {
+          "end": "Jul 2011",
+          "start": "Sep 2008"
+        },
+        "location": "Utah, USA",
+        "subtitle": "West African Examination Council (WAEC) certificate; National Examination Council (NECO) Certificate",
+        "title": "Wesley Government College",
+        "volunteeringOrOrganization": [
+          "Junior Engineers, Technicians and Scientists (JETS) Club"
+        ]
+      },
+      {
+        "date": {
+          "end": "Jul 2008",
+          "start": "Sep 2005"
+        },
+        "location": "Utah, USA",
+        "relevantSubject": [
+          "Introductory Technology",
+          "Integrated Science",
+          "Mathematics"
+        ],
+        "subtitle": "Junior School Certification Exam (JSCE) Certificate",
+        "title": "Washington Memorial Grammar School"
+      },
+      {
+        "date": {
+          "end": "Jan 2005",
+          "start": "___"
+        },
+        "location": "Minnesota, USA",
+        "subtitle": "First School Leaving Certificate",
+        "title": "Henry Hill Primary School"
+      }
+    ],
+    "employmentHistory": [
+      {
+        "activities": [
+          "I work in the Internal Tools team to architect, design and build software products to empower my colleagues in the non-technical department to solve their domain problems",
+          "Built front-end web user interface using React and Redux",
+          "Built backend API using Flask and Node.js",
+          "Wrote SQL queries to analyze data from Google BigQuery and CloudSQL"
+        ],
+        "date": {
+          "end": "Present",
+          "start": "Mar 2019"
+        },
+        "location": "California, USA",
+        "title": "Software Developer (FullStack), Google"
+      },
+      {
+        "activities": [
+          "Organized technical trainings and workshop on Fundamentals of Machine Learning",
+          "Built front-end web user interface using React and Redux",
+          "Built backend API using Flask and Node.js",
+          "Wrote SQL queries to analyze data from Google BigQuery and CloudSQL"
+        ],
+        "date": {
+          "end": "Present",
+          "start": "Jan 2016"
+        },
+        "location": "",
+        "title": "Intel AI Innovator, Intel Corporation"
+      }
+    ],
+    "header": {
+      "address": "20 Linden Road, New Jersey 101245",
+      "email": "janedoe@company.com",
+      "fullName": "Jane Doe",
+      "linkedIn": "https://linkedin.com/in/jane-doe",
+      "phone": "+234555555555",
+      "title": "B.Sc Electronic and Electrical Engineering"
+    },
+    "profile": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis lacus a est condimentum bibendum. Proin ac risus vel elit faucibus sagittis. Vestibulum quis pellentesque magna. Suspendisse egestas lorem nisi, id molestie enim ullamcorper ut. Phasellus efficitur metus sed dignissim feugiat. Morbi sed ante feugiat, varius velit in, blandit justo. Etiam pretium metus et luctus ultrices. Vestibulum volutpat eget arcu pretium molestie. Suspendisse dictum eros a congue feugiat. In vitae aliquet ipsum, in ullamcorper quam",
+    "references": [
+      {
+        "address": "",
+        "department": "Department of Electronic and Electrical Engineering",
+        "email": "mmikael@college.edu.com",
+        "fullName": "Dr. Mikael McClintoch",
+        "phone": "‭+142353"
+      },
+      {
+        "address": "",
+        "email": "hsmith@college.edu",
+        "fullName": "Prof. Smith Henderson",
+        "phone": "‭+1423545"
+      }
+    ],
+    "mySection":"I wanna dance under the moon!::",
+    "skills": [
+      {
+        "level": "Expert",
+        "name": "Python"
+      },
+      {
+        "level": "Expert",
+        "name": "JavaScript"
+      },
+      {
+        "level": "Expert",
+        "name": "React"
+      },
+      {
+        "level": "Expert",
+        "name": "Node"
+      },
+      {
+        "level": "Expert",
+        "name": "Flask"
+      },
+      {
+        "level": "Expert",
+        "name": "Redux"
+      },
+      {
+        "level": "Experienced",
+        "name": "PostgresSQL"
+      },
+      {
+        "level": "Experienced",
+        "name": "Django"
+      },
+      {
+        "level": "Experienced",
+        "name": "MongoDB"
+      },
+      {
+        "level": "Skillful",
+        "name": "Elixir"
+      },
+      {
+        "level": "Skillful",
+        "name": "Keras"
+      },
+      {
+        "level": "Skillful",
+        "name": "LabVIEW"
+      },
+      {
+        "level": "Skillful",
+        "name": "Matlab & Simulink"
+      },
+      {
+        "level": "Skillful",
+        "name": "Phoenix (Elixir)"
+      },
+      {
+        "level": "Beginner",
+        "name": "Erlang"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "break": false,
+      "name": "header",
+      "order": 1,
+      "wrap": true
+    },
+    {
+      "break": false,
+      "name": "profile",
+      "order": 2,
+      "wrap": false
+    },
+    {
+      "break": false,
+      "name": "education",
+      "order": 3,
+      "wrap": true
+    },
+    {
+      "break": false,
+      "name": "employmentHistory",
+      "order": 4,
+      "wrap": true
+    },
+    {
+      "break": false,
+      "name": "skills",
+      "order": 5,
+      "wrap": true
+    },
+    {
+      "break": false,
+      "name": "references",
+      "order": 6,
+      "wrap": true
+    },
+    {
+      "break": false,
+      "name": "languages",
+      "order": 8,
+      "wrap": true
+    },
+    {
+      "break": false,
+      "name": "mySection",
+      "order": 9,
+      "wrap": true
+    }
+  ],
+  "settings": {
+    "paperType": "LEGAL",
+    "fileName": "resume.pdf"
+  },
+  "metaData": {
+    "author": "Jane Doe",
+    "keywords": "B.Sc Graduate, Machine Learning Developer, Software Engineer, 5 years work experience",
+    "subject": "Jane Doe CV",
+    "title": "Jane Doe CV"
+  }
+}

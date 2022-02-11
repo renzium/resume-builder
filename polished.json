@@ -1,0 +1,205 @@
+{
+	"data": {
+		"education": [
+			{
+				"awards": [
+					"NNPC/Total National Merit Scholarship Scheme Award -- 2021"
+				],
+				"date": {
+					"end": "April 2023",
+					"start": "April 2018"
+				},
+				"location": "Ibadan, Oyo",
+				"subtitle": "B.Sc. Electronic and Electrical Engineering",
+				"title": "University of Ibadan"
+			}
+		],
+		"employmentHistory": [
+			{
+				"activities": [
+					"Working with the tech team at Digifigs, updated the website utilizing React, Animation, color gradients, and a variety of other visual elements to make it more attractive, hence engaging more users and boosting the chances of gaining new clients by 20% (https://digifigs.com).",
+					"Collaborated with UI/UX Designer to create an in-house React dashboard for BFCC that allows users to track and publish questions, keep track of students' grades, and categorize them based on their age and courses taken. The requirement to manually upload questions, set tests, grade and score tests was eliminated (https://test.bfccentre.com).",
+					"Developed Swift-branding website with React, CSS modules , React-router and classical components (Swiftbranding.ng)."
+				],
+				"date": {
+					"end": "Present",
+					"start": "November 2020"
+				},
+				"location": "Ibadan, Oyo",
+				"title": "Software Developer (Frontend), Digifigs.com"
+			},
+			{
+				"activities": [
+					"Natours website with with awesome 3d animation, responsive images, cross browser compatibility using HTML and SASS (https://natours1.vercel.app) ",
+					"Resume-builder, a web application for creating customize resume using React Hook",
+					"Burger-builder app with React library , React-router, CSS Modules, Redux , React-router, React Hooks. Implemented signup and authentication using firebase (https://burger-purchase.herokuapp.com).",
+					"Developed Millenniapets website for purchase and sales of pet dogs. A single-page app built with React for the front-end and Firebase for the back-end, coupled with the Whatsapp API so that users may contact the dealer via Whatsapp on their phones, and DNS protection provided by Cloudflare.",
+					"Maintained and developed both Client React application"
+				],
+				"date": {
+					"end": "Aug 2020",
+					"start": ""
+				},
+				"location": "Ibadan, Oyo",
+				"title": "Freelance Projects (Frontend)"
+			}
+		],
+		"header": {
+			"email": "lawrenceughonu@gmail.com",
+			"fullName": "Lawrence Ughonu",
+			"linkedIn": "https://linkedin.com/in/Lawrence-ughonu",
+			"phone": "+2349031194460",
+			"title": "Software Engineer (Frontend)",
+			"github": "",
+			"website": "https://www.renzium.com"
+		},
+		"skills": {
+			"programmingLanguages": {
+				"title": "Programming Languages",
+				"list": [
+					{
+						"level": "Expert",
+						"name": "JavaScript"
+					},
+					{
+						"level": "Proficient",
+						"name": "TypeScript"
+					}
+				]
+			},
+			"coreFrameworks": {
+				"title": "Core Frameworks",
+				"list": [
+					{
+						"level": "Expert",
+						"name": "ReactJs"
+					},
+
+					{
+						"level": "Proficient",
+						"name": "Redux"
+					}
+				]
+			},
+			"dbTools": {
+				"title": "Database and Query Tools",
+				"list": [
+					{
+						"level": "Proficient",
+						"name": "Firebase"
+					},
+
+					{
+						"level": "Proficient",
+						"name": "SQL"
+					}
+				]
+			},
+			"deploymentTools": {
+				"title": "Deployment Tools and Environment",
+				"list": [
+					{
+						"level": "Proficient",
+						"name": "Github Actions"
+					},
+
+					{
+						"level": "Proficient",
+						"name": "Heroku"
+					}
+				]
+			},
+			"cssFrameworks": {
+				"title": "CSS Frameworks and Tools",
+				"list": [
+					{
+						"level": "Expert",
+						"name": "TailwindCSS"
+					},
+					{
+						"level": "Proficient",
+						"name": "Material UI"
+					},
+					{
+						"level": "Expert",
+						"name": "SASS/SCSS"
+					},
+					{
+						"level": "Proficient",
+						"name": "Styled Components"
+					}
+				]
+			}
+		},
+		"softSkills": [
+			"Knowledgeable in Continuous Integration and Continuous Deployment (CI/CD).",
+			"Knowledge of Data Structure and Algorithms.",
+			"Creative and analytical thinking.",
+			"Experienced in remote working and collaboration.",
+			"Knowledgeable in design and implementation of Event-Driven Systems.",
+			"In-depth knowledge of Scrum and agile software development.",
+			"Ability to drive a project from whiteboard to production."
+		],
+		"text": "The following "
+	},
+	"sections": [
+		{
+			"break": false,
+			"name": "header",
+			"order": 1,
+			"wrap": true
+		},
+		{
+			"break": false,
+			"name": "profile",
+			"order": 2,
+			"wrap": false
+		},
+		{
+			"break": false,
+			"name": "education",
+			"order": 3,
+			"wrap": true
+		},
+		{
+			"break": false,
+			"name": "employmentHistory",
+			"order": 4,
+			"wrap": true
+		},
+		{
+			"break": false,
+			"name": "skills",
+			"order": 5,
+			"wrap": false
+		},
+		{
+			"break": false,
+			"name": "references",
+			"order": 6,
+			"wrap": true
+		},
+		{
+			"break": false,
+			"name": "languages",
+			"order": 7,
+			"wrap": true
+		},
+		{
+			"break": false,
+			"name": "softSkills",
+			"order": 8,
+			"wrap": true
+		}
+	],
+	"settings": {
+		"paperType": "TABLOID",
+		"fileName": "Lawrence Ughonu Frontend CV.pdf"
+	},
+	"metaData": {
+		"author": "Lawrence Ughonu",
+		"keywords": "Software Engineer, 5 years work experience",
+		"subject": "Lawrence Ughonu Frontend CV",
+		"title": "Lawrence Ughonu Frontend CV"
+	}
+}
