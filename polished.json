@@ -17,28 +17,32 @@
 		"employmentHistory": [
 			{
 				"activities": [
-					"Working with the tech team at Digifigs, updated the website utilizing React, Animation, color gradients, and a variety of other visual elements to make it more attractive, hence engaging more users and boosting the chances of gaining new clients by 20% (https://digifigs.com).",
-					"Collaborated with UI/UX Designer to create an in-house React dashboard for BFCC that allows users to track and publish questions, keep track of students' grades, and categorize them based on their age and courses taken. The requirement to manually upload questions, set tests, grade and score tests was eliminated (https://test.bfccentre.com).",
-					"Developed Swift-branding website with React, CSS modules , React-router and classical components (Swiftbranding.ng)."
+					"PostPaddy(https://postpaddy.com, 2022) a Time-Saving,Automated Post Planner Plan, organize, and publish content quickly to different social media channels with PostPaddy’s scheduling and team collaboration tools all in one go from one place!",
+					"Worked on Giftly (https://giftly.me, 2021), a web application that makes it easy for one to get the best gifts from their family and friend, create a wish list in minutes and share to friends on their favourite platforms!" ,
+					"Working with the tech team at Digifigs (https://digifigs.com , 2021), updated the website utilizing React, Animation, color gradients, and a variety of other visual elements to make it more attractive, hence engaging more users and boosting the chances of gaining new clients by 20% (https://digifigs.com).",
+					"Collaborated with UI/UX Designer to create an in-house React dashboard for BFCC  (https://test.bfccentre.com, 2021) that allows users to track and publish questions, keep track of students' grades, and categorize them based on their age and courses taken. The requirement to manually upload questions, set tests, grade and score tests was eliminated.",
+					"Developed Swift-branding website with React, CSS modules , React-router and classical components (Swiftbranding.ng, 2020)."
+					
 				],
 				"date": {
-					"end": "Present",
-					"start": "November 2020"
+					"end": "2022",
+					"start": "2020"
 				},
 				"location": "Ibadan, Oyo",
 				"title": "Software Developer (Frontend), Digifigs.com"
 			},
 			{
 				"activities": [
-					"Natours website with with awesome 3d animation, responsive images, cross browser compatibility using HTML and SASS (https://natours1.vercel.app) ",
-					"Resume-builder, a web application for creating customize resume using React Hook",
-					"Burger-builder app with React library , React-router, CSS Modules, Redux , React-router, React Hooks. Implemented signup and authentication using firebase (https://burger-purchase.herokuapp.com).",
-					"Developed Millenniapets website for purchase and sales of pet dogs. A single-page app built with React for the front-end and Firebase for the back-end, coupled with the Whatsapp API so that users may contact the dealer via Whatsapp on their phones, and DNS protection provided by Cloudflare.",
+					"Phantom wallet (https://phantom-ny6mkaihi-bykelaw.vercel.app, 2022), A web application for decentralize, scalable transactions",
+					"Natours website with with awesome 3d animation, responsive images, cross browser compatibility using HTML and SASS (https://natours1.vercel.app, 2021) ",
+					"Resume-builder (https://resume-builder1.vercel.app, 2021), a web application for creating customize resume using React Hook",
+					"Developed Millenniapets website (https://millenniapets.vercel.app, 2021) for purchase and sales of pet dogs. A single-page app built with React for the front-end and Firebase for the back-end, coupled with the Whatsapp API so that users may contact the dealer via Whatsapp on their phones, and DNS protection provided by Cloudflare.",
+					"Burger-builder (https://burger-purchase.vercel.app , 2020) app with React library , React-router, CSS Modules, Redux , React-router, React Hooks. Implemented signup and authentication using firebase (https://burger-purchase.herokuapp.com).",
 					"Maintained and developed both Client React application"
 				],
 				"date": {
-					"end": "Aug 2020",
-					"start": ""
+					"end": "2022",
+					"start": "2020"
 				},
 				"location": "Ibadan, Oyo",
 				"title": "Freelance Projects (Frontend)"
@@ -51,7 +55,7 @@
 			"phone": "+2349031194460",
 			"title": "Software Engineer (Frontend)",
 			"github": "",
-			"website": "https://www.renzium.com"
+			"website": "https://mrchib.vercel.app"
 		},
 		"skills": {
 			"programmingLanguages": {
